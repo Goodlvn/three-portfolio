@@ -37,6 +37,11 @@ ol, ul {
 	list-style: none;
 }
 
+.homer {
+	width: 75%;
+	margin: 0 auto;
+}
+
 blockquote, q {
 	quotes: none;
 }
